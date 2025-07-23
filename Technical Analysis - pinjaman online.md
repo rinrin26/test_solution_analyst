@@ -35,4 +35,6 @@ pinjaman online.
 <img width="1112" height="1211" alt="pinjaman drawio" src="https://github.com/user-attachments/assets/be9bd3c5-72e8-4336-bbd7-630b492237a7" />
 
 
-## Design mock up - figma
+## Design mock up - figma [https://www.figma.com/design/C4jXVsXZ4MBbQZpLujgzQQ/Pinjaman-Online---PT-xyz?node-id=16-973&t=1noAhwr1i3SPyGdh-1 ]
+
+![ui finloan](https://github.com/user-attachments/assets/c1c24977-b68d-48c6-9d90-a0d162f9f8a8)
