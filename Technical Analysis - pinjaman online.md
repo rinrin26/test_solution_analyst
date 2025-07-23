@@ -22,7 +22,6 @@ pinjaman online.
 <img width="1481" height="671" alt="arch drawio" src="https://github.com/user-attachments/assets/094d3f9e-ef27-4802-ae15-4612d55ef724" />
 
 ## design screen flow 
-
 <img width="1581" height="781" alt="diagram screen drawio" src="https://github.com/user-attachments/assets/39108705-2a9e-4424-8614-2805f441b615" />
 
 ## design ERD
@@ -30,7 +29,7 @@ pinjaman online.
 
 ## Flow 
 ### Login flow
-<img width="1282" height="1528" alt="login drawio" src="https://github.com/user-attachments/assets/5823b48a-e711-4153-abb6-97c22df6ad26" />
+<img width="1282" height="937" alt="login drawio" src="https://github.com/user-attachments/assets/602f9bf8-7cd5-4ec7-a495-0e199747e94f" />
 
 ### User Pengajuan Pinjaman 
 <img width="1111" height="1006" alt="pengajuan pinjaman drawio" src="https://github.com/user-attachments/assets/f8a24c8a-4fa1-4d11-af30-67714715121a" />
