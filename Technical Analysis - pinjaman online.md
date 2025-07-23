@@ -32,6 +32,7 @@ pinjaman online.
 <img width="1282" height="937" alt="login drawio" src="https://github.com/user-attachments/assets/602f9bf8-7cd5-4ec7-a495-0e199747e94f" />
 
 ### User Pengajuan Pinjaman 
-<img width="1111" height="1006" alt="pengajuan pinjaman drawio" src="https://github.com/user-attachments/assets/f8a24c8a-4fa1-4d11-af30-67714715121a" />
+<img width="1112" height="1211" alt="pinjaman drawio" src="https://github.com/user-attachments/assets/be9bd3c5-72e8-4336-bbd7-630b492237a7" />
+
 
 ## Design mock up - figma
