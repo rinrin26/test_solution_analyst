@@ -19,7 +19,11 @@ pinjaman online.
 
 ## High level Architecture ✨
 
+<img width="1481" height="671" alt="arch drawio" src="https://github.com/user-attachments/assets/094d3f9e-ef27-4802-ae15-4612d55ef724" />
+
 ## design screen flow 
+
+<img width="1581" height="781" alt="diagram screen drawio" src="https://github.com/user-attachments/assets/39108705-2a9e-4424-8614-2805f441b615" />
 
 ## design ERD
 
